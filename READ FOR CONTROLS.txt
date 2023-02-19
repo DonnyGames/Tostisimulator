@@ -1,0 +1,27 @@
+
+NL:
+
+HALLO MENSIES,
+
+IK BEN HET DONNY EN HIR LEG IK DE CONTROLS UIT VOOR TOSTI SIMULATOR
+
+
+Snelheid omhoog: Rechter pijltje/RB
+Snelheid omlaag: Linker pijltje/LB
+
+Bewegingen:  Linker Joystick/WASD
+
+
+English:
+
+HELLO PEOPLE,
+
+ITS ME DONNY AND I WILL BE EXPLAINING HOW YOU CONTROL THE GAME
+
+Speed up: Right arrow/RB
+
+Speed down: Left arrow/LB
+
+Movement: Left Joystick/WASD
+
+

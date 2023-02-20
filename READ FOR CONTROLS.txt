@@ -14,6 +14,9 @@ Snelheid omlaag: Linker pijltje/LB
 
 Bewegingen:  Linker Joystick/WASD
 
+Pauze: Enter knop
+Doorgaan: Rechter shift
+
 
 English:
 
@@ -26,5 +29,8 @@ Speed up: Right arrow/RB
 Speed down: Left arrow/LB
 
 Movement: Left Joystick/WASD
+
+Pause: Enter button
+Resume: Right Shift
 
 
